@@ -22,3 +22,5 @@ In `JupyterNotebook` folder:
 - `ETL_Pipeline_Preparation.ipynb` Processing data
 - `ML_Pipeline_Preparation.ipynb` Building NLP-ML pileline
 
+In `app` folder:
+- files intended to build a web app, have not finished yet...
