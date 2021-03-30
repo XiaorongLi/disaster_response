@@ -9,3 +9,16 @@ During severe disasters, the disaster response oganizations aim at providing nec
 - Parameter search with cross validation
 
 ## Files
+In `data` folder:
+- `disaster_messages.csv` Messages collected from social media
+- `disaster_categories.csv` Category information of the messages
+- `message.db` Cleaned data
+- `process_data.py` Python script for data processing (refactored from Jupyter notebooks, see below)
+
+In `models` folder:
+- `train_classifier.py` Python script for NLP-ML models (refactored from Jupyter notebooks, see below)
+
+In `JupyterNotebook` folder:
+- `ETL_Pipeline_Preparation.ipynb` Processing data
+- `ML_Pipeline_Preparation.ipynb` Building NLP-ML pileline
+
